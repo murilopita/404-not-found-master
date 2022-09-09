@@ -18,10 +18,7 @@ font-family: 'Montserrat', sans-serif;
     padding: 0;
     box-sizing: border-box;
 }
-a:not([class]) {
-    text-decoration-skip-ink: auto;
-  }
-  
+
 a{
     text-decoration: none;
     color: hsl(0, 0%, 74%);
