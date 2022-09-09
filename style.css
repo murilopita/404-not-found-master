@@ -104,6 +104,7 @@ section .text-info button{
     height: 68px;
     background-color: black;
     border: none;
+    cursor: pointer;
 }
 
 /* Footer */
