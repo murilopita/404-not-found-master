@@ -1,3 +1,10 @@
+@media (max-width: 1421px){
+
+    footer{
+        margin-top: 11rem;
+    }
+}
+
 @media (max-width: 1396px){
     
     html{
@@ -5,8 +12,15 @@
     }
 
     footer{
-        margin-top: 22rem;
-        margin-bottom: 2.5rem;
+        margin-top: 15rem;
+        
+    }
+}
+
+@media (max-width: 1350px){
+
+    footer{
+        margin-top: 13rem;
     }
 }
 
@@ -21,8 +35,8 @@
     }
 
     footer{
-        margin-top: 31rem;
-        margin-bottom: 2.5rem;
+        margin-top: 15rem;
+        
     }
 }
 
@@ -37,8 +51,8 @@
     }
 
     footer{
-        margin-top: 39rem;
-        margin-bottom: 2.5rem;
+        margin-top: 15rem;
+
     }
 }
 
@@ -69,7 +83,7 @@
     }
 
     footer{
-        margin-top: 25.0rem;
+        margin-top: 15rem;
         margin-bottom: 2.5rem;
     }
 
