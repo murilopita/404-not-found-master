@@ -58,6 +58,10 @@
 
 This application/site was created as a submission to a [DevChallenges](https://devchallenges.io/) challenge. The [challenge](https://devchallenges.io/challenges/wBunSb7FPrIepJZAg0sY) was to build an application to complete the given user stories.
 
+So, for this challenge I used Flexbox to put the "hero image" into the left and all the information error into the right. I made this 404 Not Found Page with "Desktop First" Method.
+
+For Mobile version I used Flexbox too but with "flex direction: Column".
+
 
 ## Contact
 
