@@ -8,12 +8,8 @@
 
 <div align="center">
   <h3>
-    <a href="https://splendorous-lokum-fab933.netlify.app/">
+    <a href="https://404-not-found-master-eosin.vercel.app/">
       Demo
-    </a>
-    <span> | </span>
-    <a href="https://splendorous-lokum-fab933.netlify.app/">
-      Solution
     </a>
     <span> | </span>
     <a href="https://devchallenges.io/challenges/wBunSb7FPrIepJZAg0sY">
@@ -35,7 +31,19 @@
 
 ## Overview
 
-![screenshot](https://user-images.githubusercontent.com/65280085/180602662-ed879e24-1c35-4235-8338-7748eaee4f8f.png)
+<h3 align='center'>Desktop Version</h3>
+
+<img src="imgs/screenshot-desktop.png">
+
+<br>
+<br>
+
+<h3 align='center'>Mobile Version</h3>
+
+<img src="imgs/screenshot-mobile.png">
+
+<br>
+<br>
 
 ## Built With
 
@@ -53,4 +61,4 @@ This application/site was created as a submission to a [DevChallenges](https://d
 
 ## Contact
 
-- GitHub [@murilopita]()
+- GitHub [@murilopita](https://github.com/murilopita)
