@@ -1,0 +1,121 @@
+@media (max-width: 1396px){
+    
+    html{
+        font-size:57.5%;
+    }
+
+    footer{
+        margin-top: 22rem;
+        margin-bottom: 2.5rem;
+    }
+}
+
+@media (max-width: 1346px){
+
+    html{
+        font-size: 49.5%;
+    }
+
+    section .hero-image img{
+        width: 539px;
+    }
+
+    footer{
+        margin-top: 31rem;
+        margin-bottom: 2.5rem;
+    }
+}
+
+@media (max-width: 1312px){
+    
+    html{
+        font-size: 45.5%;
+    }
+
+    section .hero-image img{
+        width: 518px;
+    }
+
+    footer{
+        margin-top: 39rem;
+        margin-bottom: 2.5rem;
+    }
+}
+
+@media (max-width: 1270px){
+
+    section{
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        align-content: center;
+        text-align: center;
+        margin-top: 15.0rem;
+    }
+
+    section .hero-image img{
+        margin-right: 0;
+        margin-left: 0;
+        margin-bottom: 5.0rem;
+    }
+
+    section .text-info h2{
+        margin-right: 0px;
+    }
+
+    section .text-info p{
+        margin-right: 0px;
+    }
+
+    footer{
+        margin-top: 25.0rem;
+        margin-bottom: 2.5rem;
+    }
+
+}
+
+@media (max-width:700px){
+
+    section .hero-image img{
+        width: 460px;
+    }
+
+    section .text-info{
+        margin: 0 2.0rem;
+    }
+
+    footer{
+        margin-bottom: 2.5rem;
+    }
+}
+
+@media (max-width: 500px){
+    html{
+        font-size: 40.5%;
+    }
+
+    section .hero-image{
+        margin: 0 2.0rem;
+    }
+    
+    section .hero-image img{
+        width: 350px;
+    }
+
+}
+
+@media (max-width: 375px){
+    html{
+        font-size: 40%;
+    }
+
+    section .hero-image{
+        margin: 0 2.0rem;
+    }
+
+    section .hero-image img{
+        width: 350px;
+    }
+
+}

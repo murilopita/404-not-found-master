@@ -22,9 +22,11 @@ font-family: 'Montserrat', sans-serif;
 a{
     text-decoration: none;
     color: hsl(0, 0%, 74%);
-    
 }
 
+html{
+    font-size: 62.5%;
+}
 
 /* Background */
 
@@ -38,7 +40,7 @@ body{
 
 main{
     width: 1440px;
-    height: 100%;
+    height: fit-content;
     margin: 0 auto;
 }
 
@@ -47,11 +49,11 @@ main{
 main header nav h1{
     font-family: 'Inconsolata', monospace;
     font-weight: 700;
-    font-size: 24px;
+    font-size: 2.4rem;
     color: black;
     text-transform: uppercase;
-    margin-top: 45px;
-    margin-left: 75px;
+    margin-top: 4.5rem;
+    margin-left: 7.5rem;
 }
 
 /* Container */
@@ -60,7 +62,7 @@ section{
     display: flex;
     justify-content: center;
     align-items: center;
-    margin-top: 200px;
+    margin-top: 17.0rem;
 
 }
 
@@ -76,18 +78,18 @@ section .hero-image img{
 
 section .text-info h2{
     font-family: 'Space Mono', monospace;
-    font-size: 64px;
+    font-size: 6.4rem;
     font-weight: 700;
-    line-height: 95px;
+    line-height: 9.5rem;
     margin-right: 100px;
     margin-bottom: 36px;    
 }
 
 section .text-info p{
     font-family: 'Space Mono', monospace;
-    font-size: 24px;
+    font-size: 2.4rem;
     font-weight: 400;
-    line-height: 35px;
+    line-height: 3.5rem;
     margin-right: 300px;
     margin-bottom: 65px;
 }
@@ -97,7 +99,7 @@ section .text-info p{
 section .text-info button{
     font-family: 'Space Mono', monospace;
     font-weight: 700;
-    font-size: 14px;
+    font-size: 1.4rem;
     text-transform: uppercase;
     color: white;
     width: 216px;
@@ -109,22 +111,22 @@ section .text-info button{
 
 /* Footer */
 
+footer{
+    margin-top: 20rem;
+    margin-bottom: 2.5rem;
+}
+
 footer h3{
     display: flex;
     justify-content: center;
     align-items: center;
     font-family: 'Montserrat', sans-serif;
     color: hsl(0, 0%, 74%);
-    font-size: 15px;
-    font-weight: 400   ;
-    align-items: center;
-    margin-top: 150px;    
+    font-size: 1.5rem;
+    font-weight: 400;
+    align-items: center;     
 }
 
 footer h3 span{
     font-weight: 700;
 }
-
-
-
-
